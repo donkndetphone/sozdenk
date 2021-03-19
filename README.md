@@ -1,0 +1,2 @@
+# sozdenk
+Repository zur VU Soziales Denken in der Informatik SS21 Uni Wien
