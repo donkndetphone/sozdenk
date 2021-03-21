@@ -1,0 +1,79 @@
+#+TITLE: Soziales Denken in der Informatik
+#+subtitle: Snizhana Ivanova, Viola Koller, Adrian Norz, Dominik Pegler, Addi Wala \\
+#+subtitle: [[https://moodle.univie.ac.at/course/view.php?id=207279][Moodle]]
+#+AUTHOR: Snizhana IVANOVA
+#+AUTHOR: Viola KOLLER
+#+AUTHOR: Adrian NORZ
+#+AUTHOR: Dominik PEGLER
+#+AUTHOR: Addi WALA
+#+EMAIL: dominikpegler@posteo.net
+#+CATEGORY: sozdenk
+#+STARTUP: overview indent
+#+OPTIONS: ^:nil toc:nil email:nil num:nil todo:t email:t tags:t broken-links:mark p:t
+#+EXPORT_FILE_NAME: /home/user/Dropbox/sozdenk/sozdenk
+# +EXPORT_FILE_NAME: /home/user/googledrive/SozDenk/sozdenk
+#+ODT_STYLES_FILE: ~/Dropbox/org/setupfile.ott
+#+LANGUAGE: de
+# +INFOJS_OPT: view:overview toc:nil mouse:#efefef buttons:t sdepth:nil
+#+html: <center>
+#+ATTR_HTML: :width 110px
+file:./img/boil.png
+#+html: </center>
+#+TOC: headlines 1
+
+
+# INFO: file was added to the agenda front
+
+* Einheiten                                                        :noexport:
+**** DONE 1. Einheit Soziales Denken
+CLOSED: [2021-03-19 Fri 13:55] SCHEDULED: <2021-03-19 Fri 09:30-12:00>
+**** TODO 2. Einheit Soziales Denken
+SCHEDULED: <2021-03-26 Fri 09:30-12:30>
+**** TODO 3. Einheit Soziales Denken
+SCHEDULED: <2021-04-16 Fri 09:30-12:30>
+**** TODO 4. Einheit Soziales Denken
+SCHEDULED: <2021-04-30 Fri 09:30-12:30>
+**** TODO 5. Einheit Soziales Denken
+SCHEDULED: <2021-05-07 Fri 09:30-12:30>
+**** TODO 6. Einheit Soziales Denken
+SCHEDULED: <2021-05-29 Sat 09:30-12:30>
+**** TODO 7. Einheit Soziales Denken
+SCHEDULED: <2021-06-11 Fri 09:30-12:30>
+**** TODO 8. Einheit Soziales Denken
+SCHEDULED: <2021-06-25 Fri 09:30-12:30>
+* Termine
+** TODO Projektfindung: Videocall
+SCHEDULED: <2021-03-24 Wed 18:00>
+** TODO Projekt bekanntgeben
+DEADLINE: <2021-03-25 Thu 22:00>
+** TODO Aufteilung der Gruppenarbeit
+SCHEDULED: <2021-03-28 Sun 11:00>
+** Beteiligung an einem OpenSource-Projekt
+*** TODO Projekt finden
+SCHEDULED: <2021-03-25 Thu 09:00>
+- Beispiele: https://www.citizen-science.at/en/
+*** TODO Blog schreiben 
+SCHEDULED: <2021-03-25 Thu 09:00+1w>
+
+* Team
+
+|           | Snizhana Ivanova | Viola Koller | Adrian Norz | Dominik Pegler | Addi Wala   |
+|-----------+------------------+--------------+-------------+----------------+-------------|
+| /Studium/ | Statistik        | ?            | Psychologie | Psychologie    | Psychologie |
+|           |                  |              |             |                |             |
+    
+* Projektideen
+** Drogenaufklärungsplattform
+Drogenaufklärungsplattform mit sinnvollen Safer-Use Empfehlung statt
+nur "JustSayNo"-Paradigma. Es gibt aber keinerlei offiziellen
+Empfehlungen (wie z.B. für Alk), wie man die Drogen möglichst
+risikoarm konsumiert, welche Kontraindikationen es gibt, in welchen
+Settings welche Droge in welcher Dosierung "sinnvoll" ist etc etc.
+
+** Datingapp für Seniorinnen und Senioren
+Dating-App für ältere Semester, die noch nie eine mobile App bedient
+haben. Vielleicht auch gar kein Smartphone oder Tablet 
+
+** Menschliche Interaktionen in digitalen Systemen
+
+* Notizen
