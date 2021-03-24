@@ -64,18 +64,6 @@ SCHEDULED: <2021-03-25 Thu 09:00+1w>
 | /Studium/ | Statistik        | ?            | Psychologie | Psychologie    | Psychologie |
 |           |                  |              |             |                |             |
     
-* Projektideen
-** Drogenaufklärungsplattform
-Drogenaufklärungsplattform mit sinnvollen Safer-Use Empfehlung statt
-nur "JustSayNo"-Paradigma. Es gibt aber keinerlei offiziellen
-Empfehlungen (wie z.B. für Alk), wie man die Drogen möglichst
-risikoarm konsumiert, welche Kontraindikationen es gibt, in welchen
-Settings welche Droge in welcher Dosierung "sinnvoll" ist etc etc.
-
-** Datingapp für Seniorinnen und Senioren
-Dating-App für ältere Semester, die noch nie eine mobile App bedient
-haben. Vielleicht auch gar kein Smartphone oder Tablet 
-
-** Menschliche Interaktionen in digitalen Systemen
-
+* Projektbeschreibung
+Plattform zum Austauschen von Erfahrungen mit Drogen im Rahmen einer neuen Art von Social-Media. Ausfuehrlichere Beschreibung folgt in Kuerze ...
 * Notizen
