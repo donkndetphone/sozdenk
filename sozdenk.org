@@ -1,6 +1,6 @@
 #+TITLE: Soziales Denken in der Informatik
 #+subtitle: Snizhana Ivanova, Viola Koller, Adrian Norz, Dominik Pegler, Addi Wala \\
-#+subtitle: [[https://moodle.univie.ac.at/course/view.php?id=207279][Moodle]]
+#+subtitle: [[https://moodle.univie.ac.at/course/view.php?id=207279][Moodle]] --- [[https://drive.google.com/drive/folders/1pjFDCtMM0FdPd1cHh5zYtEVIjbusSc04?usp=sharing][Drive]] --- [[https://meet.jit.si/SupremePresidentsForceElsewhere][jitsi]]
 #+AUTHOR: Snizhana IVANOVA
 #+AUTHOR: Viola KOLLER
 #+AUTHOR: Adrian NORZ
@@ -42,10 +42,12 @@ SCHEDULED: <2021-06-11 Fri 09:30-12:30>
 **** TODO 8. Einheit Soziales Denken
 SCHEDULED: <2021-06-25 Fri 09:30-12:30>
 * Termine
-** TODO Projektfindung: Videocall
-SCHEDULED: <2021-03-24 Wed 18:00>
+** DONE Projektfindung: Videocall
+CLOSED: [2021-03-24 Wed 19:08] SCHEDULED: <2021-03-24 Wed 18:00>
+
 ** TODO Projekt bekanntgeben
 DEADLINE: <2021-03-25 Thu 22:00>
+- Plattform zum Austauschen von Erfahrungen mit Drogen im Rahmen einer neuen Art von Social-Media
 ** TODO Aufteilung der Gruppenarbeit
 SCHEDULED: <2021-03-28 Sun 11:00>
 ** Beteiligung an einem OpenSource-Projekt
