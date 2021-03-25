@@ -74,3 +74,68 @@ illegalen Substanzen unterstützen soll. Ziel ist die Hervorhebung
 wichtiger Informationen (z.B. zu Risiken), sowie eine indirekte,
 anonyme und sichere Interaktionsmöglichkeit zwischen Usern.
 * Notizen
+
+*Hier ein paar unserer Gedanken zum Projekt:*
+
+Wir denken an eine Plattform, die Safer Use von illegalen Drogen
+ermöglichen und anregen soll. Sie sollte den Usern vollständige
+Information über alle Risiken des Drogenkonsums sowie anonyme
+Kommunikation mit anderen Usern als auch anonyme Unterstützung von
+Experten ermöglichen. Die /indirekte/ Interaktion mit anderen Usern
+wird dabei betont.
+
+** Beispiele zum Nutzen:
+
+Eine Person möchte sich über bestimmte Drogen informieren, dann findet sie auf
+dieser Plattform Empfehlungen, die sich aus den folgenden Komponenten zusammenesetzen:
+
+   1) Interviewdaten mit Gesundheits- oder Drogenexperten
+   2) Daten aus der Drogenerfahrungsdatenbank
+   3) Daten aus der wissenschaftlichen Literatur
+
+** Die Drogenerfahrungsdatenbank:
+Eine Person füllt einen teilstandardisierten Fragebogen über ihre
+Drogenerfahrungen aus, wobei u.a. Folgendes erhoben werden kann:
+   - Substanz
+   - Körpergewicht
+   - Dosis
+   - Set
+   - Setting
+   - Vorerfahrungen mit der Substanz
+   - Wirkungserwartung
+   - Wirkungsrealität
+   - Nebenwirkungen während und nach dem Rausch
+   - Offenes Feld für Erfahrungsbericht
+
+Das sollte es anderen Usern möglich machen, nach einer Droge, einem Setting oder einer anderen interessierenden Variable zu
+suchen, und zu sehen, wie es anderen Personen in dieser speziellen Situation erging.
+
+** Kontext Social Media
+
+Die Plattform fungiert somit als soziales Medium für Safer
+Use. Bestimmte Social-Media-Aspekte werden jedoch bewusst
+weggelassen. Damit möchten wir versuchen, den Inhalt und nicht die
+Personen in den Vordergrund zu stellen und weiters auch zu verhindern,
+dass diese Plattform keine Bühne für soziale Verurteilung bietet.
+
+** Sektion Help
+
+Wir denken auch eine eigene Section mit Tipps für akute Horrortrips
+an, in welcher mit Sofort-Hilfe-Maßnahmen -- sofern es die Grenzen des
+Mediums erlauben -- geholfen werden kann; oder wenn man einem solchen Horrortrip
+vorbeugen möchte. Als “Erste Drogenhilfe” sozusagen.
+
+** Qualitative Datenerhebungen / andere Form der Kommunikation
+
+Eine Möglichkeit, die eigenen Erlebnisse während oder nach einer
+Drogenerfahrung darzustellen, wäre es, den User-Usern Text- oder
+Maleinträge möglich zu machen. Diese können mit Deep-Learning-Methoden
+ausgewertet und auf diese Weise mögliche Zusammenhänge zwischen
+Drogenerfahrungen sichtbar gemacht werden.
+
+** Gesetzeslage
+
+Abschließend soll es auf dieser Plattform auch aktuelle und
+vollständige Informationen über die «Drogengesetze» in Österreich und
+der Europäischen Union sowie zu Drogen-Politik und Sozialprogrammen
+für Personen mit problematischem Drogenkonsum geben.
