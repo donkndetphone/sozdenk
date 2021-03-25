@@ -65,5 +65,13 @@ SCHEDULED: <2021-03-25 Thu 09:00+1w>
 |           |                  |              |             |                |             |
     
 * Projektbeschreibung
-Plattform zum Austauschen von Erfahrungen mit Drogen im Rahmen einer neuen Art von Social-Media. Ausfuehrlichere Beschreibung folgt in Kuerze ...
+Plattform zum Austauschen von Erfahrungen mit Drogen im Rahmen einer
+neuen Art von Social-Media.
+
+Oder in anderen Worten:
+
+Unser Thema ist das Konzept einer Plattform, die den Safe Use von
+illegalen Substanzen unterstützen soll. Ziel ist die Hervorhebung
+wichtiger Informationen (z.B. zu Risiken), sowie eine indirekte,
+anonyme und sichere Interaktionsmöglichkeit zwischen Usern.
 * Notizen
