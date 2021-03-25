@@ -45,9 +45,8 @@ SCHEDULED: <2021-06-25 Fri 09:30-12:30>
 ** DONE Projektfindung: Videocall
 CLOSED: [2021-03-24 Wed 19:08] SCHEDULED: <2021-03-24 Wed 18:00>
 
-** TODO Projekt bekanntgeben
-DEADLINE: <2021-03-25 Thu 22:00>
-- Plattform zum Austauschen von Erfahrungen mit Drogen im Rahmen einer neuen Art von Social-Media
+** DONE Projekt bekanntgeben
+CLOSED: [2021-03-25 Thu 19:44] DEADLINE: <2021-03-25 Thu 22:00>
 ** TODO Aufteilung der Gruppenarbeit
 SCHEDULED: <2021-03-28 Sun 11:00>
 ** Beteiligung an einem OpenSource-Projekt
