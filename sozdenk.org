@@ -50,12 +50,16 @@ CLOSED: [2021-03-25 Thu 19:44] DEADLINE: <2021-03-25 Thu 22:00>
 ** TODO Aufteilung der Gruppenarbeit
 SCHEDULED: <2021-03-28 Sun 11:00>
 ** Beteiligung an einem OpenSource-Projekt
-*** TODO Projekt finden
-SCHEDULED: <2021-03-25 Thu 09:00>
+*** DONE Projekt finden
+CLOSED: [2021-03-26 Fri 08:54] SCHEDULED: <2021-03-25 Thu 09:00>
 - Beispiele: https://www.citizen-science.at/en/
 *** TODO Blog schreiben 
-SCHEDULED: <2021-03-25 Thu 09:00+1w>
+SCHEDULED: <2021-04-01 Thu 09:00>
+:PROPERTIES:
+:LAST_REPEAT: [2021-03-26 Fri 08:54]
+:END:
 
+- State "DONE"       from "WAIT"       [2021-03-26 Fri 08:54]
 * Team
 
 |           | Snizhana Ivanova | Viola Koller | Adrian Norz | Dominik Pegler | Addi Wala   |
@@ -139,3 +143,20 @@ Abschließend soll es auf dieser Plattform auch aktuelle und
 vollständige Informationen über die «Drogengesetze» in Österreich und
 der Europäischen Union sowie zu Drogen-Politik und Sozialprogrammen
 für Personen mit problematischem Drogenkonsum geben.
+
+* Beteiligung an einem OpenScience, OpenData oder OpenSource-Projekt
+
+*** Addi: The Beekeeper / Geocaching 
+*** Adrian: tba
+*** Dominik: "Vienna Grid-Project"
+- Auswertung eigener Bilder nach Geodaten
+- Verortung auf einer Karte von Wien
+- Einteilung der Karte in Katastralgemeinden oder noch kleinere
+  Einheiten ("Grid")
+- Programm soll die bestehenden Bilder den Katastralgemeinden
+  zuordnen und die weißen Flecken Wiens ausmachen, die kaum bis gar
+  nicht fotografiert wurden.
+- Projekt begonnen August 2018, vollständige Umsetzung der
+  Software-Lösung fehlt
+  - Fotos sind Punkt, Katastralgemeinden sind Polygone
+*** Sina: tba
