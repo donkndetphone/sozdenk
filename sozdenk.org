@@ -159,4 +159,5 @@ für Personen mit problematischem Drogenkonsum geben.
 - Projekt begonnen August 2018, vollständige Umsetzung der
   Software-Lösung fehlt
   - Fotos sind Punkt, Katastralgemeinden sind Polygone
+  - Geodaten für Wien kommen von [[data.wien.gv.at]]
 *** Sina: tba
