@@ -49,17 +49,8 @@ CLOSED: [2021-03-24 Wed 19:08] SCHEDULED: <2021-03-24 Wed 18:00>
 CLOSED: [2021-03-25 Thu 19:44] DEADLINE: <2021-03-25 Thu 22:00>
 ** TODO Aufteilung der Gruppenarbeit
 SCHEDULED: <2021-03-28 Sun 11:00>
-** Beteiligung an einem OpenSource-Projekt
-*** DONE Projekt finden
-CLOSED: [2021-03-26 Fri 08:54] SCHEDULED: <2021-03-25 Thu 09:00>
-- Beispiele: https://www.citizen-science.at/en/
-*** TODO Blog schreiben 
-SCHEDULED: <2021-04-01 Thu 09:00>
-:PROPERTIES:
-:LAST_REPEAT: [2021-03-26 Fri 08:54]
-:END:
-
-- State "DONE"       from "WAIT"       [2021-03-26 Fri 08:54]
+** TODO Zwischenbericht abgeben
+DEADLINE: <2021-04-26 Mon 12:00>
 * Team
 
 |           | Snizhana Ivanova | Viola Koller | Adrian Norz | Dominik Pegler | Addi Wala   |
