@@ -147,8 +147,12 @@ für Personen mit problematischem Drogenkonsum geben.
 * Beteiligung an einem OpenScience, OpenData oder OpenSource-Projekt
 
 *** Addi: The Beekeeper / Geocaching 
-*** Adrian: tba
+*** Adrian: "Picture Pile"
+
+https://www.citizen-science.at/projekte/picture-pile
+
 *** Dominik: "Vienna Grid-Project"
+- Eigenes Projekt
 - Auswertung eigener Bilder nach Geodaten
 - Verortung auf einer Karte von Wien
 - Einteilung der Karte in Katastralgemeinden oder noch kleinere
@@ -156,6 +160,7 @@ für Personen mit problematischem Drogenkonsum geben.
 - Programm soll die bestehenden Bilder den Katastralgemeinden
   zuordnen und die weißen Flecken Wiens ausmachen, die kaum bis gar
   nicht fotografiert wurden.
+  - Tabelle aller Katastralgemeinden gereiht nach deren Dichte an Bildern 
 - Projekt begonnen August 2018, vollständige Umsetzung der
   Software-Lösung fehlt
   - Fotos sind Punkt, Katastralgemeinden sind Polygone
