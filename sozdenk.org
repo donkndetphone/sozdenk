@@ -164,5 +164,5 @@ https://www.citizen-science.at/projekte/picture-pile
 - Projekt begonnen August 2018 (https://viennapostcards.tumblr.com/), vollständige Umsetzung der
   Software-Lösung fehlt
   - Fotos sind Punkt, Katastralgemeinden sind Polygone
-  - Geodaten für Wien kommen von [[data.wien.gv.at]]
+  - Geodaten für Wien kommen von [[https://data.wien.gv.at]]
 *** Sina: tba
