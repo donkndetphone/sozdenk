@@ -2,7 +2,6 @@
 #+subtitle: Snizhana Ivanova, Viola Koller, Adrian Norz, Dominik Pegler, Addi Wala \\
 #+subtitle: [[https://moodle.univie.ac.at/course/view.php?id=207279][Moodle]] --- [[https://drive.google.com/drive/folders/1pjFDCtMM0FdPd1cHh5zYtEVIjbusSc04?usp=sharing][Drive]] --- [[https://meet.jit.si/SupremePresidentsForceElsewhere][jitsi]]
 #+AUTHOR: Snizhana IVANOVA
-#+AUTHOR: Viola KOLLER
 #+AUTHOR: Adrian NORZ
 #+AUTHOR: Dominik PEGLER
 #+AUTHOR: Addi WALA
@@ -27,8 +26,8 @@ file:./img/boil.png
 * Einheiten                                                        :noexport:
 **** DONE 1. Einheit Soziales Denken
 CLOSED: [2021-03-19 Fri 13:55] SCHEDULED: <2021-03-19 Fri 09:30-12:00>
-**** TODO 2. Einheit Soziales Denken
-SCHEDULED: <2021-03-26 Fri 09:30-12:30>
+**** DONE 2. Einheit Soziales Denken
+CLOSED: [2021-03-26 Fri 23:31] SCHEDULED: <2021-03-26 Fri 09:30-12:30>
 **** TODO 3. Einheit Soziales Denken
 SCHEDULED: <2021-04-16 Fri 09:30-12:30>
 **** TODO 4. Einheit Soziales Denken
@@ -49,14 +48,19 @@ CLOSED: [2021-03-24 Wed 19:08] SCHEDULED: <2021-03-24 Wed 18:00>
 CLOSED: [2021-03-25 Thu 19:44] DEADLINE: <2021-03-25 Thu 22:00>
 ** TODO Aufteilung der Gruppenarbeit
 SCHEDULED: <2021-03-28 Sun 11:00>
+** TODO Projektziele überarbeiten (gesetzliche Rahmenbedingungen? Fokus auf Interaktionskonzept?)
+DEADLINE: <2021-04-16 Fri>
+
+Eventuell Videocall
+
 ** TODO Zwischenbericht abgeben
 DEADLINE: <2021-04-26 Mon 12:00>
 * Team
 
-|           | Snizhana Ivanova | Viola Koller | Adrian Norz | Dominik Pegler | Addi Wala   |
-|-----------+------------------+--------------+-------------+----------------+-------------|
-| /Studium/ | Statistik        | ?            | Psychologie | Psychologie    | Psychologie |
-|           |                  |              |             |                |             |
+|           | Snizhana Ivanova | Adrian Norz | Dominik Pegler | Addi Wala   |
+|-----------+------------------+-------------+----------------+-------------|
+| /Studium/ | Statistik        | Psychologie | Psychologie    | Psychologie |
+|           |                  |             |                |             |
     
 * Projektbeschreibung
 Plattform zum Austauschen von Erfahrungen mit Drogen im Rahmen einer
@@ -69,6 +73,23 @@ illegalen Substanzen unterstützen soll. Ziel ist die Hervorhebung
 wichtiger Informationen (z.B. zu Risiken), sowie eine indirekte,
 anonyme und sichere Interaktionsmöglichkeit zwischen Usern.
 * Notizen
+** Überarbeitung wegen Kritikpunkten
+
+- Gesetzliche Rahmenbedingungen abklären
+- Fokus auf das von Addi angestoßene und in der Gruppe diskutierte
+  Konzept von "Non-judging" Social-Media:
+  - Experimentieren mit dem Weglassen bestimmter Elemente von
+    traditioneller Social Media wie Likes, Comments
+  - Person findet sich nicht im sozialen Vergleich wieder
+  - Person fühlt sich nicht beurteilt/verurteilt und ermöglicht dadurch Selbstakzeptanz
+- Fokus auch auf den Austausch von Erfahrung
+  - Dadurch lässt sich das Konzept auf beliebige Themen anwenden:
+    z.B. statt Drogenerfahrungen, Erfahrungen mit Psychopharmaka,
+    Erfahrungen mit physischer und psychischer Gewalt, Erfahrungen
+    durch Ausgrenzung & Ungleichbehandlung, Erfahrungen im Alltag
+    aufgrund sozialer Ängste usw.
+
+** Erster Entwurf
 
 *Hier ein paar unserer Gedanken zum Projekt:*
 
@@ -79,7 +100,7 @@ Kommunikation mit anderen Usern als auch anonyme Unterstützung von
 Experten ermöglichen. Die /indirekte/ Interaktion mit anderen Usern
 wird dabei betont.
 
-** Beispiele zum Nutzen:
+*** Beispiele zum Nutzen:
 
 Eine Person möchte sich über bestimmte Drogen informieren, dann findet sie auf
 dieser Plattform Empfehlungen, die sich aus den folgenden Komponenten zusammenesetzen:
@@ -88,7 +109,7 @@ dieser Plattform Empfehlungen, die sich aus den folgenden Komponenten zusammenes
    2) Daten aus der Drogenerfahrungsdatenbank
    3) Daten aus der wissenschaftlichen Literatur
 
-** Die Drogenerfahrungsdatenbank:
+*** Die Drogenerfahrungsdatenbank:
 Eine Person füllt einen teilstandardisierten Fragebogen über ihre
 Drogenerfahrungen aus, wobei u.a. Folgendes erhoben werden kann:
    - Substanz
@@ -105,7 +126,7 @@ Drogenerfahrungen aus, wobei u.a. Folgendes erhoben werden kann:
 Das sollte es anderen Usern möglich machen, nach einer Droge, einem Setting oder einer anderen interessierenden Variable zu
 suchen, und zu sehen, wie es anderen Personen in dieser speziellen Situation erging.
 
-** Kontext Social Media
+*** Kontext Social Media
 
 Die Plattform fungiert somit als soziales Medium für Safer
 Use. Bestimmte Social-Media-Aspekte werden jedoch bewusst
@@ -113,14 +134,14 @@ weggelassen. Damit möchten wir versuchen, den Inhalt und nicht die
 Personen in den Vordergrund zu stellen und weiters auch zu verhindern,
 dass diese Plattform keine Bühne für soziale Verurteilung bietet.
 
-** Sektion Help
+*** Sektion Help
 
 Wir denken auch eine eigene Section mit Tipps für akute Horrortrips
 an, in welcher mit Sofort-Hilfe-Maßnahmen -- sofern es die Grenzen des
 Mediums erlauben -- geholfen werden kann; oder wenn man einem solchen Horrortrip
 vorbeugen möchte. Als “Erste Drogenhilfe” sozusagen.
 
-** Qualitative Datenerhebungen / andere Form der Kommunikation
+*** Qualitative Datenerhebungen / andere Form der Kommunikation
 
 Eine Möglichkeit, die eigenen Erlebnisse während oder nach einer
 Drogenerfahrung darzustellen, wäre es, den User-Usern Text- oder
@@ -128,13 +149,12 @@ Maleinträge möglich zu machen. Diese können mit Deep-Learning-Methoden
 ausgewertet und auf diese Weise mögliche Zusammenhänge zwischen
 Drogenerfahrungen sichtbar gemacht werden.
 
-** Gesetzeslage
+*** Gesetzeslage
 
 Abschließend soll es auf dieser Plattform auch aktuelle und
 vollständige Informationen über die «Drogengesetze» in Österreich und
 der Europäischen Union sowie zu Drogen-Politik und Sozialprogrammen
 für Personen mit problematischem Drogenkonsum geben.
-
 * Beteiligung an einem OpenScience, OpenData oder OpenSource-Projekt
 
 *** Addi: The Beekeeper / Geocaching 
