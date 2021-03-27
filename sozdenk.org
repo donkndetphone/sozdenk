@@ -1,5 +1,5 @@
 #+TITLE: Soziales Denken in der Informatik
-#+subtitle: Snizhana Ivanova, Viola Koller, Adrian Norz, Dominik Pegler, Addi Wala \\
+#+subtitle: Snizhana Ivanova, Adrian Norz, Dominik Pegler, Addi Wala \\
 #+subtitle: [[https://moodle.univie.ac.at/course/view.php?id=207279][Moodle]] --- [[https://drive.google.com/drive/folders/1pjFDCtMM0FdPd1cHh5zYtEVIjbusSc04?usp=sharing][Drive]] --- [[https://meet.jit.si/SupremePresidentsForceElsewhere][jitsi]]
 #+AUTHOR: Snizhana IVANOVA
 #+AUTHOR: Adrian NORZ
