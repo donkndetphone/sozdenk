@@ -86,9 +86,9 @@ anonyme und sichere Interaktionsmöglichkeit zwischen Usern.
 - Fokus auch auf den Austausch von Erfahrung
   - Dadurch lässt sich das Konzept auf beliebige Themen anwenden:
     z.B. statt Drogenerfahrungen, Erfahrungen mit Psychopharmaka,
-    Erfahrungen mit physischer und psychischer Gewalt, Erfahrungen
-    durch Ausgrenzung & Ungleichbehandlung, Erfahrungen im Alltag
-    aufgrund sozialer Ängste usw.
+    sexuellen Praktiken, Erfahrungen mit physischer und psychischer
+    Gewalt, Erfahrungen durch Ausgrenzung & Ungleichbehandlung,
+    Erfahrungen im Alltag aufgrund sozialer Ängste usw.
 
 ** Erster Entwurf (24.3.2021)
 
