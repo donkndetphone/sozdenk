@@ -57,11 +57,15 @@ Eventuell Videocall
 DEADLINE: <2021-04-26 Mon 12:00>
 * Team
 
-|           | Snizhana Ivanova | Adrian Norz | Dominik Pegler | Addi Wala   |
-|-----------+------------------+-------------+----------------+-------------|
-| /Studium/ | Statistik        | Psychologie | Psychologie    | Psychologie |
-|           |                  |             |                |             |
-    
+|              | Snizhana Ivanova | Adrian Norz | Dominik Pegler | Addi Wala   |
+|--------------+------------------+-------------+----------------+-------------|
+| /Studium/    | Statistik        | Psychologie | Psychologie    | Psychologie |
+| /Semester/   |                  |             |                |             |
+| /Interessen/ |                  |             |                |             |
+| /Stärken/    |                  |             |                |             |
+| /Schwächen/  |                  |             |                |             |
+|              |                  |             |                |             |
+
 * Projektbeschreibung
 Plattform zum Austauschen von Erfahrungen mit Drogen im Rahmen einer
 neuen Art von Social-Media.
