@@ -48,11 +48,8 @@ CLOSED: [2021-03-24 Wed 19:08] SCHEDULED: <2021-03-24 Wed 18:00>
 CLOSED: [2021-03-25 Thu 19:44] DEADLINE: <2021-03-25 Thu 22:00>
 ** TODO Aufteilung der Gruppenarbeit
 SCHEDULED: <2021-03-28 Sun 11:00>
-** TODO Projektziele überarbeiten (gesetzliche Rahmenbedingungen? Fokus auf Interaktionskonzept?)
+** TODO Projektziele überarbeiten 
 DEADLINE: <2021-04-16 Fri>
-
-Eventuell Videocall
-
 ** TODO Zwischenbericht abgeben
 DEADLINE: <2021-04-26 Mon 12:00>
 * Team
