@@ -77,7 +77,7 @@ illegalen Substanzen unterstützen soll. Ziel ist die Hervorhebung
 wichtiger Informationen (z.B. zu Risiken), sowie eine indirekte,
 anonyme und sichere Interaktionsmöglichkeit zwischen Usern.
 * Notizen
-** Überarbeitung wegen Kritikpunkten
+** Überarbeitung wegen Kritikpunkten (27.3.2021)
 
 - Gesetzliche Rahmenbedingungen abklären
 - Fokus auf das von Addi angestoßene und in der Gruppe diskutierte
@@ -93,9 +93,7 @@ anonyme und sichere Interaktionsmöglichkeit zwischen Usern.
     durch Ausgrenzung & Ungleichbehandlung, Erfahrungen im Alltag
     aufgrund sozialer Ängste usw.
 
-** Erster Entwurf
-
-*Hier ein paar unserer Gedanken zum Projekt:*
+** Erster Entwurf (24.3.2021)
 
 Wir denken an eine Plattform, die Safer Use von illegalen Drogen
 ermöglichen und anregen soll. Sie sollte den Usern vollständige
