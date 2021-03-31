@@ -9,9 +9,6 @@
 #+CATEGORY: sozdenk
 #+STARTUP: overview indent
 #+OPTIONS: ^:nil toc:nil email:nil num:nil todo:t email:t tags:t broken-links:mark p:t
-#+EXPORT_FILE_NAME: /home/user/Dropbox/sozdenk/sozdenk
-# +EXPORT_FILE_NAME: /home/user/googledrive/SozDenk/sozdenk
-#+ODT_STYLES_FILE: ~/Dropbox/org/setupfile.ott
 #+LANGUAGE: de
 # +INFOJS_OPT: view:overview toc:nil mouse:#efefef buttons:t sdepth:nil
 #+html: <center>
