@@ -45,6 +45,8 @@ CLOSED: [2021-03-24 Wed 19:08] SCHEDULED: <2021-03-24 Wed 18:00>
 CLOSED: [2021-03-25 Thu 19:44] DEADLINE: <2021-03-25 Thu 22:00>
 ** DONE Neudefinition Projektziele: Videocall
 CLOSED: [2021-04-02 Fri 17:15] SCHEDULED: <2021-04-02 Fri 16:45>
+** TODO Leitlinien besprechen: Videocall
+SCHEDULED: <2021-04-05 Mon 18:00>
 
 ** TODO Projektziele überarbeiten 
 DEADLINE: <2021-04-16 Fri>
@@ -72,6 +74,10 @@ illegalen Substanzen unterstützen soll. Ziel ist die Hervorhebung
 wichtiger Informationen (z.B. zu Risiken), sowie eine indirekte,
 anonyme und sichere Interaktionsmöglichkeit zwischen Usern.
 * Notizen
+** Leitlinien des Projekts (2.4.2021)
+- z.B. Gesundheit des Users steht im Vordergrund
+- Es geht nicht um Austausch, wie kriminelle Handlungen begangen werden können
+- 
 ** Überarbeitung wegen Kritikpunkten (27.3.2021)
 
 - Gesetzliche Rahmenbedingungen abklären
