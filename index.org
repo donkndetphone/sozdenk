@@ -74,17 +74,17 @@ illegalen Substanzen unterstützen soll. Ziel ist die Hervorhebung
 wichtiger Informationen (z.B. zu Risiken), sowie eine indirekte,
 anonyme und sichere Interaktionsmöglichkeit zwischen Usern.
 * Notizen
-** Links zu SSDP (students for sensible drug policy)
+** 3.4.2021: Links zu SSDP (students for sensible drug policy)
 
 - https://en.wikipedia.org/wiki/Students_for_Sensible_Drug_Policy
 - https://ssdp.org/
 - https://www.meduniwien.ac.at/web/fileadmin/content/kommunikation/events/2020/03/Panel_Discussion_-_Psychedelic_Science_-_5.3.2020_.pdf
 
-** Leitlinien des Projekts (2.4.2021)
+** 2.4.2021: Leitlinien des Projekts 
 - z.B. Gesundheit des Users steht im Vordergrund
 - Es geht nicht um Austausch, wie kriminelle Handlungen begangen werden können
 - 
-** Überarbeitung wegen Kritikpunkten (27.3.2021)
+** 27.3.2021: Überarbeitung wegen Kritikpunkten 
 
 - Gesetzliche Rahmenbedingungen abklären
 - Fokus auf das von Addi angestoßene und in der Gruppe diskutierte
@@ -100,7 +100,7 @@ anonyme und sichere Interaktionsmöglichkeit zwischen Usern.
     Gewalt, Erfahrungen durch Ausgrenzung & Ungleichbehandlung,
     Erfahrungen im Alltag aufgrund sozialer Ängste usw.
 
-** Erster Entwurf (24.3.2021)
+** 24.3.2021: Erster Entwurf
 
 Wir denken an eine Plattform, die Safer Use von illegalen Drogen
 ermöglichen und anregen soll. Sie sollte den Usern vollständige
