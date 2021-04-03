@@ -74,12 +74,20 @@ illegalen Substanzen unterstützen soll. Ziel ist die Hervorhebung
 wichtiger Informationen (z.B. zu Risiken), sowie eine indirekte,
 anonyme und sichere Interaktionsmöglichkeit zwischen Usern.
 * Notizen
-** 3.4.2021: Links zu SSDP (students for sensible drug policy)
+** 3.4.2021: Links zu ähnlichen Plattformen
+- checkit! – Kompetenzzentrum für Freizeitdrogen https://checkit.wien/
+- PsychonautWiki https://www.psychonautwiki.org
+- Das Schweizer Drogenforum für risikobewussten und
+  selbstverantwortlichen Umgang mit Drogen
+  https://www.eve-rave.ch/Forum/
+- Eurowid - organization providing access to reliable, non-judgmental
+  information about psychoactive plants, chemicals, and related
+  issues. https://www.erowid.org
 
+** 3.4.2021: Links zu SSDP (students for sensible drug policy)
 - https://en.wikipedia.org/wiki/Students_for_Sensible_Drug_Policy
 - https://ssdp.org/
 - https://www.meduniwien.ac.at/web/fileadmin/content/kommunikation/events/2020/03/Panel_Discussion_-_Psychedelic_Science_-_5.3.2020_.pdf
-
 ** 2.4.2021: Leitlinien des Projekts 
 - z.B. Gesundheit des Users steht im Vordergrund
 - Es geht nicht um Austausch, wie kriminelle Handlungen begangen werden können
