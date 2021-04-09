@@ -49,7 +49,7 @@ CLOSED: [2021-04-02 Fri 17:15] SCHEDULED: <2021-04-02 Fri 16:45>
 ** DONE Leitlinien erstellen, Videocall
 CLOSED: [2021-04-05 Mon 19:13] DEADLINE: <2021-04-05 Mon 18:00> SCHEDULED: <2021-04-05 Mon 18:00>
 
-** TODO Videocall
+** TODO Gloomaps/Projektbaum: Videocall
 SCHEDULED: <2021-04-09 Fri 16:00>
 ** TODO Projektziele überarbeiten 
 DEADLINE: <2021-04-16 Fri>
