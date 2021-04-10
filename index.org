@@ -13,7 +13,7 @@
 # +INFOJS_OPT: view:overview toc:nil mouse:#efefef buttons:t sdepth:nil
 #+html: <center>
 #+ATTR_HTML: :width 110px
-file:./img/boil.png
+file:./img/mindmap.png
 #+html: </center>
 #+HUGO_BASE_DIR: ~/data/hugo/sozdenk
 #+TOC: headlines 1
