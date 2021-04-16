@@ -1,6 +1,6 @@
 #+TITLE: Soziales Denken in der Informatik
 #+subtitle: Snizhana Ivanova, Adrian Norz, Dominik Pegler, Addi Wala \\
-#+subtitle: [[https://moodle.univie.ac.at/course/view.php?id=207279][Moodle]] --- [[https://drive.google.com/drive/folders/1pjFDCtMM0FdPd1cHh5zYtEVIjbusSc04?usp=sharing][Drive]] --- [[https://meet.jit.si/SupremePresidentsForceElsewhere][jitsi]] --- [[https://univienna.zoom.us/][zoom]] --- [[https://www.gloomaps.com/sPe4h73ZJR][GlooMap]]
+#+subtitle: [[https://moodle.univie.ac.at/course/view.php?id=213399][Moodle]] --- [[https://drive.google.com/drive/folders/1pjFDCtMM0FdPd1cHh5zYtEVIjbusSc04?usp=sharing][Drive]] --- [[https://meet.jit.si/SupremePresidentsForceElsewhere][jitsi]] --- [[https://univienna.zoom.us/][zoom]] --- [[https://www.gloomaps.com/sPe4h73ZJR][GlooMap]]
 #+AUTHOR: Snizhana IVANOVA
 #+AUTHOR: Adrian NORZ
 #+AUTHOR: Dominik PEGLER
@@ -26,8 +26,8 @@ file:./img/mindmap.png
 CLOSED: [2021-03-19 Fri 13:55] SCHEDULED: <2021-03-19 Fri 09:30-12:00>
 **** DONE 2. Einheit Soziales Denken
 CLOSED: [2021-03-26 Fri 23:31] SCHEDULED: <2021-03-26 Fri 09:30-12:30>
-**** TODO 3. Einheit Soziales Denken
-SCHEDULED: <2021-04-16 Fri 09:30-12:30>
+**** DONE 3. Einheit Soziales Denken
+CLOSED: [2021-04-16 Fri 11:52] SCHEDULED: <2021-04-16 Fri 09:30-12:30>
 **** TODO 4. Einheit Soziales Denken
 SCHEDULED: <2021-04-30 Fri 09:30-12:30>
 **** TODO 5. Einheit Soziales Denken
@@ -39,20 +39,20 @@ SCHEDULED: <2021-06-11 Fri 09:30-12:30>
 **** TODO 8. Einheit Soziales Denken
 SCHEDULED: <2021-06-25 Fri 09:30-12:30>
 * Termine
-** DONE Projektfindung: Videocall
+** DONE Projektfindung: Videocall                                 :noexport:
 CLOSED: [2021-03-24 Wed 19:08] SCHEDULED: <2021-03-24 Wed 18:00>
 
 ** DONE Projekt bekanntgeben
 CLOSED: [2021-03-25 Thu 19:44] DEADLINE: <2021-03-25 Thu 22:00>
-** DONE Neudefinition Projektziele: Videocall
+** DONE Neudefinition Projektziele: Videocall                     :noexport:
 CLOSED: [2021-04-02 Fri 17:15] SCHEDULED: <2021-04-02 Fri 16:45>
-** DONE Leitlinien erstellen, Videocall
+** DONE Leitlinien erstellen, Videocall                           :noexport:
 CLOSED: [2021-04-05 Mon 19:13] DEADLINE: <2021-04-05 Mon 18:00> SCHEDULED: <2021-04-05 Mon 18:00>
 
-** DONE Projektbaum: Videocall
+** DONE Projektbaum: Videocall                                    :noexport:
 CLOSED: [2021-04-09 Fri 17:06] SCHEDULED: <2021-04-09 Fri 16:00>
 
-** TODO Projektbaum II: Videocall
+** TODO Projektbaum: Videocall
 SCHEDULED: <2021-04-16 Fri 19:00>
 Definieren der konkreten Eckpfeiler im Projektbaum
 ** TODO Projektziele überarbeiten 
