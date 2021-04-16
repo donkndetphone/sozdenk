@@ -52,9 +52,11 @@ CLOSED: [2021-04-05 Mon 19:13] DEADLINE: <2021-04-05 Mon 18:00> SCHEDULED: <2021
 ** DONE Projektbaum: Videocall                                    :noexport:
 CLOSED: [2021-04-09 Fri 17:06] SCHEDULED: <2021-04-09 Fri 16:00>
 
-** TODO Projektbaum: Videocall
-SCHEDULED: <2021-04-16 Fri 19:00>
+** DONE Projektbaum: Videocall                                    :noexport:
+CLOSED: [2021-04-16 Fri 19:35] SCHEDULED: <2021-04-16 Fri 19:00>
 Definieren der konkreten Eckpfeiler im Projektbaum
+** TODO Projektbaum: Videocall
+SCHEDULED: <2021-04-23 Fri 19:00>
 ** TODO Projektziele überarbeiten 
 DEADLINE: <2021-04-16 Fri>
 ** TODO Zwischenbericht abgeben
