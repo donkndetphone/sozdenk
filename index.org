@@ -55,12 +55,14 @@ CLOSED: [2021-04-09 Fri 17:06] SCHEDULED: <2021-04-09 Fri 16:00>
 ** DONE Projektbaum: Videocall                                    :noexport:
 CLOSED: [2021-04-16 Fri 19:35] SCHEDULED: <2021-04-16 Fri 19:00>
 Definieren der konkreten Eckpfeiler im Projektbaum
+** DONE Projektziele überarbeiten 
+CLOSED: [2021-04-25 Sun 10:39] DEADLINE: <2021-04-16 Fri>
+** DONE Projektbaum: Videocall                                    :noexport:
+CLOSED: [2021-04-23 Fri 18:37] SCHEDULED: <2021-04-23 Fri 18:00>
 ** TODO Projektbaum: Videocall
-SCHEDULED: <2021-04-23 Fri 19:00>
-** TODO Projektziele überarbeiten 
-DEADLINE: <2021-04-16 Fri>
+SCHEDULED: <2021-04-26 Mon 18:00>
 ** TODO Zwischenbericht abgeben
-DEADLINE: <2021-04-26 Mon 12:00>
+DEADLINE: <2021-04-28 Wed 23:59>
 * Team
 
 |              | Snizhana Ivanova | Adrian Norz | Dominik Pegler | Addi Wala   |
@@ -72,7 +74,9 @@ DEADLINE: <2021-04-26 Mon 12:00>
 | /Schwächen/  |                  |             |                |             |
 |              |                  |             |                |             |
 
-* Projektbeschreibung
+* Projekt
+
+** Kurzbeschreibung
 Plattform zum Austauschen von Erfahrungen mit Drogen im Rahmen einer
 neuen Art von Social-Media.
 
@@ -82,11 +86,11 @@ Unser Thema ist das Konzept einer Plattform, die den Safe Use
 nicht-legaler Drogen unterstützen soll. Ziel ist die Hervorhebung
 wichtiger Informationen (z.B. zu Risiken), sowie eine indirekte,
 anonyme und sichere Interaktionsmöglichkeit zwischen Usern.
-* Notizen
-** 9.4.2021 (Alle): Projektbaum (GlooMap) wurde erweitert und diskutiert
-** 5.4.2021 (Alle): Leitlinien des Projekts
+** Notizen
+*** 9.4.2021 (Alle): Projektbaum (GlooMap) wurde erweitert und diskutiert
+*** 5.4.2021 (Alle): Leitlinien des Projekts
 Projektbaum (GlooMap) wurde erstellt.
-** 4.4.2021 (Adrian): Soziale Relevanz
+*** 4.4.2021 (Adrian): Soziale Relevanz
 
 Die KonsumentInnen illegaler Drogen können in der Öffentlichkeit nicht
 offen über ihren Konsum sprechen. Dadurch kann sich keine
@@ -372,7 +376,7 @@ innerhalb einer Minute die wichtigsten Hardfacts zu dieser Substanz zu
 ergoogeln. Viel mehr bräuchte es stundenlange Recherche; ein
 Zeitrahmen der in solchen Situationen nicht gegeben ist.
 
-** 3.4.2021 (Dominik): Links zu ähnlichen Plattformen
+*** 3.4.2021 (Dominik): Links zu ähnlichen Plattformen
 - checkit! – Kompetenzzentrum für Freizeitdrogen https://checkit.wien/
 - PsychonautWiki https://www.psychonautwiki.org
 - Das Schweizer Drogenforum für risikobewussten und
@@ -382,15 +386,15 @@ Zeitrahmen der in solchen Situationen nicht gegeben ist.
   information about psychoactive plants, chemicals, and related
   issues. https://www.erowid.org
 
-** 3.4.2021 (Dominik): Links zu SSDP (students for sensible drug policy)
+*** 3.4.2021 (Dominik): Links zu SSDP (students for sensible drug policy)
 - https://en.wikipedia.org/wiki/Students_for_Sensible_Drug_Policy
 - https://ssdp.org/
 - https://www.meduniwien.ac.at/web/fileadmin/content/kommunikation/events/2020/03/Panel_Discussion_-_Psychedelic_Science_-_5.3.2020_.pdf
-** 2.4.2021 (Addi): Leitlinien des Projekts 
+*** 2.4.2021 (Addi): Leitlinien des Projekts 
 - z.B. Gesundheit des Users steht im Vordergrund
 - Es geht nicht um Austausch, wie kriminelle Handlungen begangen werden können
 - 
-** 27.3.2021 (Dominik): Überarbeitung wegen Kritikpunkten 
+*** 27.3.2021 (Dominik): Überarbeitung wegen Kritikpunkten 
 
 - Gesetzliche Rahmenbedingungen abklären
 - Fokus auf das von Addi angestoßene und in der Gruppe diskutierte
@@ -406,7 +410,7 @@ Zeitrahmen der in solchen Situationen nicht gegeben ist.
     Gewalt, Erfahrungen durch Ausgrenzung & Ungleichbehandlung,
     Erfahrungen im Alltag aufgrund sozialer Ängste usw.
 
-** 24.3.2021 (Zsfg.): Erster Entwurf
+*** 24.3.2021 (Zsfg.): Erster Entwurf
 
 Wir denken an eine Plattform, die Safer Use von illegalen Drogen
 ermöglichen und anregen soll. Sie sollte den Usern vollständige
@@ -415,7 +419,7 @@ Kommunikation mit anderen Usern als auch anonyme Unterstützung von
 Experten ermöglichen. Die /indirekte/ Interaktion mit anderen Usern
 wird dabei betont.
 
-*** Beispiele zum Nutzen:
+**** Beispiele zum Nutzen:
 
 Eine Person möchte sich über bestimmte Drogen informieren, dann findet sie auf
 dieser Plattform Empfehlungen, die sich aus den folgenden Komponenten zusammenesetzen:
@@ -424,7 +428,7 @@ dieser Plattform Empfehlungen, die sich aus den folgenden Komponenten zusammenes
    2) Daten aus der Drogenerfahrungsdatenbank
    3) Daten aus der wissenschaftlichen Literatur
 
-*** Die Drogenerfahrungsdatenbank:
+**** Die Drogenerfahrungsdatenbank:
 Eine Person füllt einen teilstandardisierten Fragebogen über ihre
 Drogenerfahrungen aus, wobei u.a. Folgendes erhoben werden kann:
    - Substanz
@@ -441,7 +445,7 @@ Drogenerfahrungen aus, wobei u.a. Folgendes erhoben werden kann:
 Das sollte es anderen Usern möglich machen, nach einer Droge, einem Setting oder einer anderen interessierenden Variable zu
 suchen, und zu sehen, wie es anderen Personen in dieser speziellen Situation erging.
 
-*** Kontext Social Media
+**** Kontext Social Media
 
 Die Plattform fungiert somit als soziales Medium für Safer
 Use. Bestimmte Social-Media-Aspekte werden jedoch bewusst
@@ -449,14 +453,14 @@ weggelassen. Damit möchten wir versuchen, den Inhalt und nicht die
 Personen in den Vordergrund zu stellen und weiters auch zu verhindern,
 dass diese Plattform keine Bühne für soziale Verurteilung bietet.
 
-*** Sektion Help
+**** Sektion Help
 
 Wir denken auch eine eigene Section mit Tipps für akute Horrortrips
 an, in welcher mit Sofort-Hilfe-Maßnahmen -- sofern es die Grenzen des
 Mediums erlauben -- geholfen werden kann; oder wenn man einem solchen Horrortrip
 vorbeugen möchte. Als “Erste Drogenhilfe” sozusagen.
 
-*** Qualitative Datenerhebungen / andere Form der Kommunikation
+**** Qualitative Datenerhebungen / andere Form der Kommunikation
 
 Eine Möglichkeit, die eigenen Erlebnisse während oder nach einer
 Drogenerfahrung darzustellen, wäre es, den User-Usern Text- oder
@@ -464,31 +468,43 @@ Maleinträge möglich zu machen. Diese können mit Deep-Learning-Methoden
 ausgewertet und auf diese Weise mögliche Zusammenhänge zwischen
 Drogenerfahrungen sichtbar gemacht werden.
 
-*** Gesetzeslage
+**** Gesetzeslage
 
 Abschließend soll es auf dieser Plattform auch aktuelle und
 vollständige Informationen über die «Drogengesetze» in Österreich und
 der Europäischen Union sowie zu Drogen-Politik und Sozialprogrammen
 für Personen mit problematischem Drogenkonsum geben.
-* Beteiligung an einem OpenScience, OpenData oder OpenSource-Projekt
+* Mitarbeit an OpenScience, OpenData oder OpenSource-Projekt
 
-*** Addi: The Beekeeper / Geocaching 
+*** Addi: Geocaching 
+- Beschreibung
+https://en.wikipedia.org/wiki/Geocaching
+- Link zu Blog:
 *** Adrian: "Picture Pile"
 
-https://www.citizen-science.at/projekte/picture-pile
+- Beschreibung
+
+  https://www.citizen-science.at/projekte/picture-pile
+
+- Link zu Blog:
 
 *** Dominik: "Vienna Grid-Project"
-- Eigenes Projekt
-- Auswertung eigener Bilder nach Geodaten und Verortung auf einer
-  Karte von Wien
-- Einteilung der Karte in Katastralgemeinden oder noch kleinere
-  Einheiten ("Grid")
-- Programm soll die bestehenden Bilder den Katastralgemeinden
-  zuordnen und die weißen Flecken Wiens ausmachen, die kaum bis gar
-  nicht fotografiert wurden.
-  - Tabelle aller Katastralgemeinden gereiht nach deren Dichte an Bildern 
-- Projekt begonnen August 2018 (https://viennapostcards.tumblr.com/), vollständige Umsetzung der
-  Software-Lösung fehlt
-  - Fotos sind Punkt, Katastralgemeinden sind Polygone
-  - Geodaten für Wien kommen von [[https://data.wien.gv.at]]
+- Beschreibung
+  - Eigenes Projekt
+  - Auswertung eigener Bilder nach Geodaten und Verortung auf einer
+    Karte von Wien
+  - Einteilung der Karte in Katastralgemeinden oder noch kleinere
+    Einheiten ("Grid")
+  - Programm soll die bestehenden Bilder den Katastralgemeinden
+    zuordnen und die weißen Flecken Wiens ausmachen, die kaum bis gar
+    nicht fotografiert wurden.
+    - Tabelle aller Katastralgemeinden gereiht nach deren Dichte an Bildern 
+  - Projekt begonnen August 2018, vollständige Umsetzung der
+    Software-Lösung fehlt
+    - Fotos sind Punkt, Katastralgemeinden sind Polygone
+    - Geodaten für Wien kommen von [[https://data.wien.gv.at]]
+- Link zu Blog:
+
+    https://viennapostcards.tumblr.com
+
 *** Sina: tba
