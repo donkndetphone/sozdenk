@@ -28,12 +28,12 @@ CLOSED: [2021-03-19 Fri 13:55] SCHEDULED: <2021-03-19 Fri 09:30-12:00>
 CLOSED: [2021-03-26 Fri 23:31] SCHEDULED: <2021-03-26 Fri 09:30-12:30>
 **** DONE 3. Einheit Soziales Denken
 CLOSED: [2021-04-16 Fri 11:52] SCHEDULED: <2021-04-16 Fri 09:30-12:30>
-**** TODO 4. Einheit Soziales Denken
-SCHEDULED: <2021-04-30 Fri 09:30-12:30>
-**** TODO 5. Einheit Soziales Denken
-SCHEDULED: <2021-05-07 Fri 09:30-12:30>
-**** TODO 6. Einheit Soziales Denken
-SCHEDULED: <2021-05-29 Sat 09:30-12:30>
+**** DONE 4. Einheit Soziales Denken
+CLOSED: [2021-04-30 Fri 15:13] SCHEDULED: <2021-04-30 Fri 09:30-12:30>
+**** DONE 5. Einheit Soziales Denken
+CLOSED: [2021-05-07 Fri 18:12] SCHEDULED: <2021-05-07 Fri 09:30-12:30>
+**** DONE 6. Einheit Soziales Denken
+CLOSED: [2021-05-28 Fri 19:10] SCHEDULED: <2021-05-29 Sat 09:30-12:30>
 **** TODO 7. Einheit Soziales Denken
 SCHEDULED: <2021-06-11 Fri 09:30-12:30>
 **** TODO 8. Einheit Soziales Denken
@@ -55,24 +55,23 @@ CLOSED: [2021-04-09 Fri 17:06] SCHEDULED: <2021-04-09 Fri 16:00>
 ** DONE Projektbaum: Videocall                                    :noexport:
 CLOSED: [2021-04-16 Fri 19:35] SCHEDULED: <2021-04-16 Fri 19:00>
 Definieren der konkreten Eckpfeiler im Projektbaum
-** DONE Projektziele überarbeiten 
+** DONE Projektziele überarbeiten                                 :noexport:
 CLOSED: [2021-04-25 Sun 10:39] DEADLINE: <2021-04-16 Fri>
 ** DONE Projektbaum: Videocall                                    :noexport:
 CLOSED: [2021-04-23 Fri 18:37] SCHEDULED: <2021-04-23 Fri 18:00>
-** TODO Projektbaum: Videocall
-SCHEDULED: <2021-04-26 Mon 18:00>
-** TODO Zwischenbericht abgeben
-DEADLINE: <2021-04-28 Wed 23:59>
+** DONE Videocall                                                 :noexport:
+CLOSED: [2021-04-26 Mon 19:46] SCHEDULED: <2021-04-26 Mon 18:00>
+** DONE Zwischenbericht abgeben
+CLOSED: [2021-04-28 Wed 22:45] DEADLINE: <2021-04-28 Wed 23:59>
 * Team
 
-|              | Snizhana Ivanova | Adrian Norz | Dominik Pegler | Addi Wala   |
-|--------------+------------------+-------------+----------------+-------------|
-| /Studium/    | Statistik        | Psychologie | Psychologie    | Psychologie |
-| /Semester/   |                  |             |                |             |
-| /Interessen/ |                  |             |                |             |
-| /Stärken/    |                  |             |                |             |
-| /Schwächen/  |                  |             |                |             |
-|              |                  |             |                |             |
+|              | Adrian Norz          | Dominik Pegler | Addi Wala      |
+|--------------+----------------------+----------------+----------------|
+| /Studium/    | Bachelor Psychologie | B. Psychologie | B. Psychologie |
+| /Interessen/ |                      |                |                |
+| /Stärken/    |                      |                |                |
+| /Schwächen/  |                      |                |                |
+|              |                      |                |                |
 
 * Projekt
 
@@ -86,11 +85,8 @@ Unser Thema ist das Konzept einer Plattform, die den Safe Use
 nicht-legaler Drogen unterstützen soll. Ziel ist die Hervorhebung
 wichtiger Informationen (z.B. zu Risiken), sowie eine indirekte,
 anonyme und sichere Interaktionsmöglichkeit zwischen Usern.
-** Notizen
-*** 9.4.2021 (Alle): Projektbaum (GlooMap) wurde erweitert und diskutiert
-*** 5.4.2021 (Alle): Leitlinien des Projekts
-Projektbaum (GlooMap) wurde erstellt.
-*** 4.4.2021 (Adrian): Soziale Relevanz
+** Soziale Relevanz der Thematik
+/Autoren: Adrian NORZ, Addi WALA/
 
 Die KonsumentInnen illegaler Drogen können in der Öffentlichkeit nicht
 offen über ihren Konsum sprechen. Dadurch kann sich keine
@@ -151,10 +147,10 @@ Stimmen gab, die befürchteten dass damit Jugendliche zu Sex ermutigt
 werden, die Sünde und der Werteverfall in die Gesellschaft Einzug
 halten wird und die Probleme dadurch noch ansteigen werden, ist das
 Gegenteil eingetreten: Die sexuelle Aktivität der Jugendlichen ist
-gesunken
+sogar gesunken
 (https://www.childtrends.org/indicators/sexual-activity-among-teens). Heutzutage
 wird an diesem Ansatz kaum noch gezweifelt und gerüttelt, der Nutzen
-für die Gesellschaft scheint glasklar zu sein.
+für die Gesellschaft scheint klar zu sein.
 
 Genauso verhält es sich auch mit Drogenkonsum: Es werden immer wieder
 veraltete und überholte Unwahrheiten wie die Einstiegsdrogenhypothese,
@@ -175,6 +171,8 @@ und intensiviert werden (siehe Drogen- und Suchtbericht der deutschen
 Drogenbeauftragten, 2019). Allein dieser Umstand sollte schon
 ausreichen, um zumindest nachdenklich zu stimmen.
 
+*** Bisherige Präventionsarbeit
+
 Die Literaturrecherche brachte keine überzeugenden Studien zutage, die
 eine klare Langzeitwirksamkeit von Präventionsbemühungen belegen
 konnten. Betrachtet man die „Expertise zur Suchtprävention“ der
@@ -184,35 +182,38 @@ verschiedenen Präventionsansätze, gelegentlich moderate, und auch
 diese kleinen und moderaten Effekte sind meist nicht von Dauer. Wenn
 es überhaupt längerfristige Followup-Untersuchungen gibt, schrumpfen
 die Effekte oder sind teilweise gar nicht mehr signifikant
-feststellbar. In der Metastudie von Onrust et al. (2016) zeigt sich
-die laxe empirische Überprüfung der einzelnen Präventionsprogramme:
-66% der 288 untersuchten Programme hatten 3 Monate (oder noch kürzer!)
-nach Ende des Programms ihre letzte Erhebung über das Konsumausmaß,
-wohingegen nur bei rund 7% der Programme der Erhebungszeitraum zwei
-Jahre überschritten hat. In Kombination mit der Tatsache dass 63% der
-evaluierten Programme an 13-jährigen und noch jüngeren Kindern
-durchgeführt wurden, wirft das kein gutes Licht auf die
-wissenschaftliche Sorgfältigkeit der beteiligten Personen. Ich will es
-nochmal etwas überspitzter darstellen: Man wendet ein
-Präventionsprogramm bei Unter-13-jährigen Kindern an, also in einer
-Altersgruppe wo Drogenkonsum noch so gut wie gar keine Rolle spielt,
-misst weniger als 3 Monate später die Outcomes (ein so kurzer
-Zeitraum, dass sich eventuell einfach keine Konsummöglichkeiten
-ergaben), und erklärt dann ein effektives, evidenzbasiertes Programm
-entwickelt zu haben, ohne die wirklich entscheidende Phase der
-Pubertät, in der die häufigsten Konsumeinstiege zu beobachten sind,
-mit zu erheben. Im besten Fall ist ein solches Vorgehen nachlässig und
-schlampig, im schlimmsten Fall wurde das Untersuchungsdesign bewusst
-so gewählt, um vor dem bevorstehenden Abfall der „Effektivität“ die
-Augen absichtlich zu verschließen. So könnte man das Programm nämlich
-trotzdem mit dem Etikett „wissenschaftlich geprüft“ vermarkten, sei es
-für monetären oder politischen Zugewinn. Dass die meisten Programme
+feststellbar. Die in der Expertise zitierte Metastudie von Onrust et
+al. (2016) zeigt beispielhaft die laxe empirische Überprüfung der
+einzelnen Präventionsprogramme: 66% der 288 untersuchten Programme
+hatten 3 Monate (oder noch kürzer!)  nach Ende des Programms ihre
+letzte Erhebung über das Konsumausmaß, wohingegen nur bei rund 7% der
+Programme der Erhebungszeitraum zwei Jahre überschritten hat. In
+Kombination mit der Tatsache dass 63% der evaluierten Programme an
+13-jährigen und noch jüngeren Kindern durchgeführt wurden, wirft das
+kein gutes Licht auf die wissenschaftliche Sorgfältigkeit der
+beteiligten Personen. Etwas überspitzter formuliert wird das Problem
+offensichtlich: Man wendet ein Präventionsprogramm bei Unter-13-jährigen
+Kindern an, also in einer Altersgruppe wo Drogenkonsum noch so gut wie
+gar keine Rolle spielt, misst weniger als 3 Monate später die Outcomes
+(ein so kurzer Zeitraum, dass sich eventuell einfach keine
+Konsummöglichkeiten ergaben), und erklärt dann ein effektives,
+evidenzbasiertes Programm entwickelt zu haben, ohne die wirklich
+entscheidende Phase der Pubertät, in der die häufigsten
+Konsumeinstiege zu beobachten sind, mit zu erheben. Im besten Fall ist
+ein solches Vorgehen nachlässig und schlampig, im schlimmsten Fall
+wurde das Untersuchungsdesign bewusst so gewählt, um vor dem
+bevorstehenden Abfall der „Effektivität“ die Augen absichtlich zu
+verschließen. So könnte man das Programm nämlich trotzdem mit dem
+Etikett „wissenschaftlich geprüft“ vermarkten, sei es für monetären
+oder politischen Zugewinn. Dass die meisten Programme
 Eigenevaluationen statt Fremdevaluationen durchführen, hilft der
-Glaubwürdigkeit auch nicht weiter.
+Glaubwürdigkeit dabei auch nicht weiter.
 
 Bei der schon oben erwähnten „Expertise zur Suchtprävention“ von
-Bühler et al. (2020) findet sich ebenfalls ein Beleg für die
-Unwirksamkeit der Prävention, sobald das Pubertätsalter erreicht wird:
+Bühler et al. (2020), einem von der deutsche Bundesregierung in
+Auftrag gegebenen 176 Seiten starken Übersichtsarbeit, findet sich
+ebenfalls ein Beleg für die Unwirksamkeit der Prävention, sobald das
+Pubertätsalter erreicht wird:
 
 #+begin_quote
 „Auffällig ist allerdings, dass für die Prävention mit Acht- und
@@ -239,67 +240,35 @@ noch mehr, noch früheren und noch umgreifenderen Präventionsmaßnahmen
 argumentiert, ohne die grundlegenden Ansätze und Denkweisen zu
 überarbeiten.
 
+Diejenigen Jugendlichen, die aufgrund ihres Umfelds am meisten
+gefährdet sind, werden von der Prävention offensichtlich außer Acht
+gelassen, da bisher keine effektiven Ansätze entwickelt werden
+konnten. Van Heyden und Jungaberle berichten aus langjähriger
+Lehrerberatungs- und -fortbildungstätigkeit zu diesem Thema, dass es
+vor allem an “Wissen, den Instrumenten und Ressourcen und vor allem an
+der Ausbildung der lehrenden Akteure” (alternativer Drogen und
+Suchtbericht 2018, S.208) mangle.
+
+
 #+begin_quote
 “Wie am Beispiel des Präventionsdilemmas besonders deutlich wird,
 profitieren von den verbreiteten Maßnahmen vor allem diejenigen
 Schülerinnen und Schüler am meisten, die am wenigsten vulnerabel sind
 und entsprechend nur in geringerem Maße im Kerninteresse von
-Prävention stehen.”  (van Heyden & Jungaberle im alternativen Drogen
-und Suchtbericht 2018, S. 208)
+Prävention stehen.” 
 #+end_quote
 
-Genau diese Lücke der Unwirksamkeit, soll unser Projekt helfen
-auszufüllen. Wir wollen denjenigen Menschen, die von der bisherigen
-klassischen Prävention an Schulen nicht erreicht werden Informationen
-bereitstellen, die sie benötigen um den ohnehin stattfindenden Konsum
-so sicher und risikoarm wie möglich zu gestalten.  Die Bereitstellung
-von safer-use-Empfehlungen sehen wir als den fehlenden Grundpfeiler
-einer effektiven Drogenaufklärung und dem Erreichen von
-Drogenmündigkeit. Durch die breite Adoption des Internets hat sich die
-Zugänglichkeit zu safer-use-Empfehlungen bereits massiv verbessert. Im
-Internet haben KonsumentInnen, die bis dahin für Informationen
-hauptsächlich auf Anekdoten von anderen KonsumentInnen oder von ihrem
-Dealer angewiesen waren, die Möglichkeit, sich in digitalen
-Subkulturen international auszutauschen, Informationen aktuell zu
-halten, auf neue Gefahren schnell zu reagieren (Pillen- und
-Streckmittelwarnungen), Informationen zu aggregieren und dann
-gesammelt zur Verfügung zu stellen. „[…] dies bietet den
-Konsumierenden Risikokompetenz und damit eine gewisse Sicherheit bei
-dem Gebrauch der Drogen. Für die Qualität der Informationen sind
-insbesondere ‚Nutzerexpert_innen‘, die ihr Potenzial in Social Media
-entfalten können, bedeutsam.“ (Morgenstern, 2014, S.299) Die Expertise
-basiert dabei aber nicht auf formaler Bildung, sondern auf
-Selbsterfahrung mit den Substanzen und der Vermittlung von safer use
-Regeln. Die einschlägigen Foren werden meist von ModeratorInnen („[…]
-volunteers who had earned the right to have the title, power and
-responsibility of forum moderator by consistently demonstrating their
-commitment to the values of the community, the most important being
-the focus upon harm reduction“ Barratt, 2011, S.144) betreut, die
-schädliche oder falsche Informationen entweder richtig stellen,
-löschen oder in einen notwendigen Kontext setzen.
-
-In den Internetforen werden die drei Begriffe „drug, set & setting“
-(Zinberg, 1984) fast schon gebetsmühlenartig wiederholt, verbreitet
-und erklärt. Sie haben in das kollektive Bewusstsein der
-Online-Drogenszene Einzug gefunden und werden, im Gegensatz zu den
-Präventionsbemühungen von Regierungen, akzeptiert und angenommen. Die
-NutzerInnen der Internetforen erziehen sich also gegenseitig zu
-weniger schädlichen Drogenkonsummustern, indem sie ehrliche
-Drogenaufklärung anstatt tendenziöser Drogenprävention betreiben.
-
-Die Internetforen genießen unter Mitgliedern dieser Communitys hohe
-Glaubwürdigkeit, im Gegensatz zu den institutionalisierten
-Präventionsbotschaften, die sogar bei nicht-KonsumentInnen oft infrage
-gestellt werden. Die Forscher D’Emidio-Caston & Brown (1998)
-untersuchten die Wirkungen eines Präventionsprogrammes auf
-Schüler. Die interessanteste Schlussfolgerung, die die Autoren aus
-ihrer Untersuchung ziehen ist, dass Jugendliche bereits aus ihrer
-Umwelt gelernt haben, dass es einen grundlegenden Unterschied zwischen
-Ge- und Missbrauch gibt. „They are aware that alcohol has a negative
-effect on the behavior of some people. They are also aware that others
-who drink do not have a problem and can use alcohol occasionally.“
-(S.104) Diese Erfahrungen kollidieren mit den Botschaften, die sie in
-der Präventionsarbeit gehört haben.
+Die Forscher D’Emidio-Caston & Brown (1998) untersuchten die Wirkungen
+eines Präventionsprogrammes auf Schüler. Die interessanteste
+Schlussfolgerung, die die Autoren aus ihrer Untersuchung ziehen ist,
+dass Jugendliche bereits aus ihrer Umwelt gelernt haben dass es
+(anders als durch die Prävention meist behauptet) sehr wohl einen
+grundlegenden Unterschied zwischen Gebrauch und Missbrauch gibt. „They
+are aware that alcohol has a negative effect on the behavior of some
+people. They are also aware that others who drink do not have a
+problem and can use alcohol occasionally.“ (S.104) Diese Erfahrungen
+kollidieren mit den Botschaften, die sie in der Präventionsarbeit
+gehört haben.
 
 #+begin_quote
 „[…] what students learned in their substance abuse prevention
@@ -307,21 +276,20 @@ education is not consistent with other life experiences. [...] By
 linking and contrasting the two experiences, they construct their own
 understanding of the effect of using drugs, alcohol, and tobacco. […]
 Students perceive the effects of prevention education as having little
-influence on their decision making. […] When students’ understandings
-are different enough from the message they receive in DATE (Anm: DATE
-ist das Präventionsprogramm, das untersucht wurde.), the credibility
-of the information they receive and in some cases the students’ trust
-in those who offer the information may be called into question.“
-(ebd. S.106 ff.)
+influence on their decision making. […]  When students’ understandings
+are different enough from the message they receive in DATE, the
+credibility of the information they receive and in some cases the
+students’ trust in those who offer the information may be called into
+question.“ (ebd. S.106 ff.)
 #+end_quote
 
 Der Absolutismus des Negativen, wie er in der Präventionsarbeit
 dargestellt wird, passt nicht zu den Lebenserfahrungen die Menschen
-selbst machen oder in ihrem Freundeskreis beobachten. Die meisten
-KonsumentInnen illegaler Drogen entwickeln kein Problem mit ihrem
-Konsum (“Results show that the majority of drug use is episodic,
+selbst mit Drogen machen oder in ihrem Freundeskreis beobachten. Die
+meisten KonsumentInnen illegaler Drogen entwickeln kein Problem mit
+ihrem Konsum (“Results show that the majority of drug use is episodic,
 transient and generally non-problematic.” Schlag 2020), und können
-daher die fast schon panikartige (Des-)informationskampagne der
+daher die fast schon panikartige (Des-)informationskampagnen der
 öffentlichen Präventionsarbeit nicht nachvollziehen. Daraus ergibt
 sich ein Unglaube gegenüber der bereitgestellten Informationen, der
 dann aber problematischerweise auch auf reale Gefahren des
@@ -331,11 +299,17 @@ Hier offenbart sich ein grundlegendes Problem der Präventionsarbeit:
 Wie soll die Prävention wirken, wenn sie von der Zielgruppe gar nicht
 ernst genommen wird, wenn ihre Narrative an den Erfahrungen der
 Realität zerschellen und sie aufgrund ihrer extremen Positionen als
-unglaubwürdig wahrgenommen wird? Demnach wäre eine Ausrichtung der
-Prävention auf Drogenmündigkeit statt Abstinenz begrüßenswert.
+unglaubwürdig wahrgenommen wird?
 
-Barsch (2018) fasst die Anforderungen an einen risikoarmen
-Drogenkonsum so zusammen:
+Genau diese Lücke der Unwirksamkeit, soll unser Projekt helfen
+auszufüllen. Wir wollen denjenigen Menschen, die von der bisherigen
+klassischen Präventionsansätzen an Schulen und in Institutionen nicht
+erreicht werden, die benötigten Informationen bereitstellen, um ihren
+ohnehin stattfindenden Konsum so gering, sicher und risikoarm wie
+möglich zu gestalten. Die Bereitstellung von derartigen
+“safer-use-Empfehlungen” sehen wir als einen wichtigen fehlenden
+Grundpfeiler einer effektiven Drogenaufklärung und dem Erreichen von
+“Drogenmündigkeit”, wie von Barsch (2018) beschrieben:
 
 #+begin_quote
 „In Anbetracht der vielfältigen pharmakologischen, soziokulturellen
@@ -353,29 +327,58 @@ torpedieren. Dieser Gesamtkomplex soll im Weiteren als
 Drogenmündigkeit bezeichnet werden.“ (S. 78)
 #+end_quote
 
-Es konnte sich dank der Anonymität des Internets, abseits der
+*** Ein neuer Ansatz
+
+Durch die breite Adoption des Internets hat sich die Zugänglichkeit zu
+solchen safer-use-Empfehlungen bereits massiv verbessert. Durch das
+Internet haben KonsumentInnen, die bis dahin für Informationen
+hauptsächlich auf Anekdoten von anderen KonsumentInnen aus dem
+direkten Umfeld oder von ihrem Dealer angewiesen waren, die
+Möglichkeit erhalten, sich in digitalen Subkulturen international
+auszutauschen, Informationen aktuell zu halten, auf neue Gefahren
+schnell zu reagieren (Pillen- und Streckmittelwarnungen),
+Informationen zu aggregieren und dann gesammelt zur Verfügung zu
+stellen. „[…] dies bietet den Konsumierenden Risikokompetenz und damit
+eine gewisse Sicherheit bei dem Gebrauch der Drogen. Für die Qualität
+der Informationen sind insbesondere ‚Nutzerexpert_innen‘, die ihr
+Potenzial in Social Media entfalten können, bedeutsam.“ (Morgenstern,
+2014, S.299) Die Expertise basiert dabei aber nicht auf formaler
+Bildung, sondern auf Selbsterfahrung mit den Substanzen und der
+Vermittlung von safer use Regeln. Die einschlägigen Foren werden meist
+von ModeratorInnen („[…] volunteers who had earned the right to have
+the title, power and responsibility of forum moderator by consistently
+demonstrating their commitment to the values of the community, the
+most important being the focus upon harm reduction“ Barratt, 2011,
+S.144) betreut, die schädliche oder falsche Informationen entweder
+richtig stellen, löschen oder in einen notwendigen Kontext setzen.  In
+den Internetforen werden die drei Begriffe „drug, set & setting“
+(Zinberg, 1984) fast schon gebetsmühlenartig wiederholt, verbreitet
+und erklärt. Sie haben in das kollektive Bewusstsein der
+Online-Drogenszene Einzug gefunden und werden, im Gegensatz zu den
+Präventionsbemühungen von Regierungen, akzeptiert und angenommen. Die
+NutzerInnen der Internetforen erziehen sich also gegenseitig zu
+weniger schädlichen Drogenkonsummustern, indem sie ehrliche
+Drogenaufklärung anstatt tendenziöser Drogenprävention betreiben.  Es
+konnte sich dank der Anonymität des Internets, abseits der
 Zugriffsmöglichkeiten der Prohibitionisten, eine Kultur rund um Drogen
 und deren Konsum bilden, die Drogenmündigkeit in den Fokus rückt, und
 dadurch einen Ansatz für eine möglicherweise bessere gesellschaftliche
-Umgangsform mit Drogen und deren KonsumentInnen zu finden.
-
-Das Problem der in den Internetforen und auf Social Media angebotenen
+Umgangsform mit Drogen und deren KonsumentInnen zu finden.  Das
+Problem der in den Internetforen und auf Social Media angebotenen
 Informationen ist folgendes: Es gibt keine zusammenfassende, einfach
 zu findende Seite, auf der konkrete, leicht verständliche, eindeutige
-Safer-use-Empfehlungen gegeben werden, zudem sind viele der
+Safer-use-Empfehlungen gegeben werden. Zudem sind viele der
 Informationen nicht auf deutsch verfügbar. Die Glaubwürdigkeit der
 einzelnen Quellen ist dabei oft schwer zu beurteilen wenn man nicht
-mit ihnen vertraut ist, daher müssen die Informationen vom Nutzer
+mit ihnen vertraut ist, daher müssen die Informationen von den Nutzern
 selbstständig aus einer Vielzahl von Quellen recherchiert,
 zusammengetragen, überprüft und aggregiert werden, um ein umfassendes
-Bild zu erhalten.  Sollte ein Jugendlicher also in einer akuten
-Situation sein, in der er (wahrscheinlich unter Einfluss von
-Gruppendruck) beurteilen muss, ob er eine ihm angebotenen Droge nun
-konsumieren soll oder nicht, ist es für ihn nicht möglich sich
-innerhalb einer Minute die wichtigsten Hardfacts zu dieser Substanz zu
-ergoogeln. Viel mehr bräuchte es stundenlange Recherche; ein
-Zeitrahmen der in solchen Situationen nicht gegeben ist.
+Bild zu erhalten.
 
+** Notizen
+*** 9.4.2021 (Alle): Projektbaum (GlooMap) wurde erweitert und diskutiert
+*** 5.4.2021 (Alle): Leitlinien des Projekts
+Projektbaum (GlooMap) wurde erstellt.
 *** 3.4.2021 (Dominik): Links zu ähnlichen Plattformen
 - checkit! – Kompetenzzentrum für Freizeitdrogen https://checkit.wien/
 - PsychonautWiki https://www.psychonautwiki.org
